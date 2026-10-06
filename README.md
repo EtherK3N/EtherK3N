@@ -1,4 +1,4 @@
-# Francesco Passaquindici
+# EtherK3n
 
 Practical software developer focused on web standards, e-commerce operations, and Python automation. Active contributor to production open-source codebases.
 
